@@ -38,6 +38,6 @@ As a detail-oriented Data Entry Specialist and entry-level Data Analyst with ove
 
 ## Data Analytic Projects
 
-[Projects](https://github.com/Ckenny-Analyst/Portfolio)
+[Projects](https://github.com/Ckenny-Analyst/Portfolio) : This folder consists my projects.
 
 Thank you for checking my portfolio.

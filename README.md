@@ -39,7 +39,7 @@ As a detail-oriented Data Entry Specialist and entry-level Data Analyst with ove
     * Speed and accuracy
     * Adaptability
 
-## Data ENtry, Cleaning and Analytic Projects
+## Data Entry, Cleaning and Analytic Projects
 
 [Projects](https://github.com/Ckenny-Analyst/Portfolio) : This folder consists my projects.
 

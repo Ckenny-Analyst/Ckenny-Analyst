@@ -19,7 +19,7 @@ This portfolio consists of selected projects that highlight my skills in **Data 
 - Data Entry & Cleaning: Organized and reconciled raw income and expense entries, ensuring accurate categorization.
 - Analysis & Reporting: Created a dynamic Excel dashboard with PivotTables and charts to visualize spending patterns and income flows.
 - Impact: Enhanced financial tracking by highlighting savings opportunities and budgeting insights.
-👉 [View Project Folder](./Personal-Finance-Tracker-Dashboard)
+👉 [View Project Folder](https://github.com/Ckenny-Analyst/Personal-Finance-Tracker-Dashboard)
 
 
 ### 2. Customer Subscription Service Analysis (Excel & Power BI)

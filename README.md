@@ -21,6 +21,7 @@ This portfolio consists of selected projects that highlight my skills in **Data 
 - Impact: Enhanced financial tracking by highlighting savings opportunities and budgeting insights.
 👉 [View Project Folder](https://github.com/Ckenny-Analyst/Personal-Finance-Tracker-Dashboard)
 
+---
 
 ### 2. Customer Subscription Service Analysis (Excel & Power BI)
 - Data Entry & Cleaning: Standardized and validated subscription datasets by resolving formatting issues, duplicates, and missing values.  

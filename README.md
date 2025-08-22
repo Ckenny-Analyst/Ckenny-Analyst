@@ -1,46 +1,58 @@
-<h2 align="left">Hi 👋! Kehinde Alawode </h2>
+## 👩 Kehinde Alawode – Data Entry Specialist & Data Analyst  
 
-###
+## 🔹 About Me  
+I am a detail-oriented Data Entry Specialist and Entry-Level Data Analyst with hands-on experience in Excel, SQL, and Power BI. Skilled in data entry, cleaning, and visualization, I help businesses transform raw data into accurate and actionable insights.  
 
-<div align="left">
-  <a href="http://linkedin.com/in/kehindealawode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=grey&logoColor=White&labelColor=0077B5&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-</div>
+✅ 90%+ accuracy in handling large datasets  
+✅ Experience automating workflows & reporting  
+✅ Strong foundation in data quality, record management, and visualization  
 
-###
+Passionate about continuous learning, I combine technical expertise with attention to detail and problem-solving to deliver reliable results.  
 
-Data Entry Specialist & Entry-Level Data Analyst| Passionate about delivering accurate insights & streamlining processes.
+---
+## 🔹 Projects  
 
-## Mission
-Empowering businesses and organizations with data-driven solutions, leveraging my skills in data entry, analysis, visualization, and administrative support to drive growth and efficiency.
+This portfolio consists of selected projects that highlight my skills in **Data Entry, Cleaning, Analysis, and Visualization** using Excel, SQL, and Power BI. Each project demonstrates my ability to handle data efficiently, improve accuracy, and provide insights for decision-making.
 
-## About Me
-As a detail-oriented Data Entry Specialist and entry-level Data Analyst with over a year of experience, I'm passionate about delivering high-quality data management and analysis solutions. With a unique blend of academic background in Urban and Regional Planning and hands-on experience in data management, I excel in ensuring data accuracy, streamlining processes, and providing actionable insights that drive informed decision-making. I'm known for my meticulous attention to detail, lightning-fast data entry skills, and unwavering commitment to accuracy. My administrative expertise and willingness to lend a helping hand make me a valuable asset to any team. I continually seek ways to enhance my skills and deliver exceptional results, driven by a passion for data-driven excellence.
+### 1. Personal Finance Tracker Dashboard (Excel)
 
-## Skills
-* Data Entry and Processing
-  * Excel, Google Sheets
-  
-* Data Analysis and Visualisation
-    * Excel ( Pivot Tables, Charts, Power Query)
-    * Power BI
-    * SQL(Microsoft SQL)
-      
-* Web and Productive tools
-    * Google Workspace
-    * Microsoft Office Suite
-      
-* Soft Skills
-    * Attention to detail
-    * Communication
-    * Administrative support
-    * Time management
-    * Speed and accuracy
-    * Adaptability
+- Data Entry & Cleaning: Organized and reconciled raw income and expense entries, ensuring accurate categorization.
+- Analysis & Reporting: Created a dynamic Excel dashboard with PivotTables and charts to visualize spending patterns and income flows.
+- Impact: Enhanced financial tracking by highlighting savings opportunities and budgeting insights.
+👉 [View Project Folder](./Personal-Finance-Tracker-Dashboard)
 
-## Data Entry, Cleaning, and Analytic Projects
 
-[Projects](https://github.com/Ckenny-Analyst/Portfolio): This folder consists of my projects.
+### 2. Customer Subscription Service Analysis (Excel & Power BI)
+- Data Entry & Cleaning: Standardized and validated subscription datasets by resolving formatting issues, duplicates, and missing values.  
+- Analysis & Reporting: Built dashboards in Excel and Power BI to track cancellations, subscription trends, and regional preferences.  
+- Impact: Provided clarity on retention trends to inform customer engagement strategies.  
+👉 [View Project Folder](./Customer-Subscription-Service-Analysis)
 
-Thank you for checking my portfolio.
+---
+
+### 3. Sales Performance Analysis (SQL, Excel & Power BI)
+- Data Preparation & Cleaning: Merged raw sales data from multiple sources using SQL and addressed inconsistencies.  
+- Analysis & Reporting: Analyzed top-performing products and regional trends; visualized findings in Power BI dashboards.  
+- Impact: Supported strategic decisions on inventory and sales focus areas.  
+👉 [View Project Folder](./Sales-Performance-Analysis)
+
+---
+
+### 4. HR Data Analytics – Incubator Hub (Excel & Power BI)
+- Data Validation & Organization: Cleaned HR datasets by standardizing demographics, correcting missing values, and ensuring consistency.  
+- Analysis & Reporting: Designed Power BI visuals showing correlations between job satisfaction and attrition.  
+- Impact: Delivered insights that guided HR retention planning and improved worker satisfaction.  
+👉 [View Project Folder](./Incubator-Hub-HR-Data-Analytics)
+
+---
+
+### 5. Academic Records Upload & Verification (Data Entry Project)  
+- Entered and validated 500,000+ academic records into an online verification system.  
+- Corrected inconsistencies and collaborated with IT to ensure seamless database integration.  
+
+
+## 🔹 Let’s Connect  
+📧 Email: alawodekehindeelizabeth@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kehindealawode)  
+📂 [Portfolio](https://www.datascienceportfol.io/KehindeAlawode)  
+📦 [GitHub](https://github.com/Ckenny-Analyst)  

@@ -9,7 +9,17 @@ I am a detail-oriented Data Entry Specialist and Entry-Level Data Analyst with h
 
 Passionate about continuous learning, I combine technical expertise with attention to detail and problem-solving to deliver reliable results.  
 
+--- 
+
+## 🔹 Skills
+
+- **Data Entry & Processing:** Excel, Google Sheets  
+- **Analysis & Visualization:** Excel (Pivot Tables, Power Query), SQL (Microsoft SQL), Power BI  
+- **Productivity Tools:** Google Workspace, Microsoft Office  
+- **Soft Skills:** Attention to detail, Communication, Administrative support, Time management, Speed & accuracy, Adaptability  
+
 ---
+
 ## 🔹 Projects  
 
 This portfolio consists of selected projects that highlight my skills in **Data Entry, Cleaning, Analysis, and Visualization** using Excel, SQL, and Power BI. Each project demonstrates my ability to handle data efficiently, improve accuracy, and provide insights for decision-making.

@@ -26,7 +26,7 @@ This portfolio consists of selected projects that highlight my skills in **Data 
 - Data Entry & Cleaning: Standardized and validated subscription datasets by resolving formatting issues, duplicates, and missing values.  
 - Analysis & Reporting: Built dashboards in Excel and Power BI to track cancellations, subscription trends, and regional preferences.  
 - Impact: Provided clarity on retention trends to inform customer engagement strategies.  
-👉 [View Project Folder](./Customer-Subscription-Service-Analysis)
+👉 [View Project Folder](https://github.com/Ckenny-Analyst/Customer-Subscription-Service-Analysis)
 
 ---
 
@@ -34,7 +34,7 @@ This portfolio consists of selected projects that highlight my skills in **Data 
 - Data Preparation & Cleaning: Merged raw sales data from multiple sources using SQL and addressed inconsistencies.  
 - Analysis & Reporting: Analyzed top-performing products and regional trends; visualized findings in Power BI dashboards.  
 - Impact: Supported strategic decisions on inventory and sales focus areas.  
-👉 [View Project Folder](./Sales-Performance-Analysis)
+👉 [View Project Folder](https://github.com/Ckenny-Analyst/Sales-Performance-Analysis)
 
 ---
 
@@ -42,7 +42,7 @@ This portfolio consists of selected projects that highlight my skills in **Data 
 - Data Validation & Organization: Cleaned HR datasets by standardizing demographics, correcting missing values, and ensuring consistency.  
 - Analysis & Reporting: Designed Power BI visuals showing correlations between job satisfaction and attrition.  
 - Impact: Delivered insights that guided HR retention planning and improved worker satisfaction.  
-👉 [View Project Folder](./Incubator-Hub-HR-Data-Analytics)
+👉 [View Project Folder](https://github.com/Ckenny-Analyst/Incubator-Hub-HR-Data-Analytics)
 
 ---
 

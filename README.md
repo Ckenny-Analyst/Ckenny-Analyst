@@ -1,4 +1,5 @@
-## 👩 Kehinde Alawode – Data Entry Specialist & Data Analyst  
+## 👩 Kehinde Alawode –  Data Entry Specialist | Entry-Level Data Analyst
+ 
 
 ## 🔹 About Me  
 I am a detail-oriented Data Entry Specialist and Entry-Level Data Analyst with hands-on experience in Excel, SQL, and Power BI. Skilled in data entry, cleaning, and visualization, I help businesses transform raw data into accurate and actionable insights.  

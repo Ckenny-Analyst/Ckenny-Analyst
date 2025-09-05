@@ -1,15 +1,21 @@
-## 👩 Kehinde Alawode –  Data Entry Specialist | Entry-Level Data Analyst
+## 👩 Kehinde Alawode –  Data Analyst | Data Quality & Reporting Specialist
  
 
 ## 🔹 About Me  
-I am a detail-oriented Data Entry Specialist and Entry-Level Data Analyst with hands-on experience in Excel, SQL, and Power BI. Skilled in data entry, cleaning, and visualization, I help businesses transform raw data into accurate and actionable insights.  
 
-✅ 90%+ accuracy in handling large datasets  
-✅ Experience automating workflows & reporting  
-✅ Strong foundation in data quality, record management, and visualization  
+I am a detail-oriented Data Entry Specialist and aspiring Data Analyst with a deep-seated passion for data integrity. My journey started with a simple frustration: seeing how a small error at the source could compromise an entire analysis.
 
-Passionate about continuous learning, I combine technical expertise with attention to detail and problem-solving to deliver reliable results.  
+That's why I specialize in turning raw, messy data into accurate and actionable insights. With hands-on experience in Excel, Power BI, and SQL, I help businesses build a solid data foundation they can truly trust and use for decision-making.
 
+My projects have focused on solving real-world problems and proving the value of clean data. Some of my key skills include:
+
+ -	Over 90% accuracy in handling large datasets 
+
+ -	Automating workflows and reporting to save time and reduce errors
+
+ -	Creating visualizations that deliver clear, reliable insights
+
+  
 --- 
 
 ## 🔹 Skills
@@ -23,7 +29,7 @@ Passionate about continuous learning, I combine technical expertise with attenti
 
 ## 🔹 Projects  
 
-This portfolio consists of selected projects that highlight my skills in **Data Entry, Cleaning, Analysis, and Visualization** using Excel, SQL, and Power BI. Each project demonstrates my ability to handle data efficiently, improve accuracy, and provide insights for decision-making.
+This portfolio comprises selected projects that showcase my skills in **Data Entry, Cleaning, Analysis, and Visualization** using Excel, SQL, and Power BI. Each project demonstrates my ability to handle data efficiently, enhance accuracy, and provide actionable insights for informed decision-making.
 
 ### 1. Personal Finance Tracker Dashboard (Excel)
 

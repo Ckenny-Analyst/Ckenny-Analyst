@@ -1,4 +1,4 @@
-## 👩 Kehinde Alawode –  Data Analyst | Data Quality & Reporting Specialist
+## 👩 Kehinde Alawode –  Data Analyst | Specializing in Data Quality & Reporting
  
 
 ## 🔹 About Me  
